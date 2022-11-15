@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	c.m1();
 	c.m2();
 	c.m3();
+	c.m4();
 }
 }
